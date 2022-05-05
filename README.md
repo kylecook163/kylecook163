@@ -4,7 +4,7 @@
 
 Hello, everyone. I'm Kyle Cook, from Winnipeg, Canada.
 
-My programming Experience includes JavaScript, C#, Java, and swift.
+My programming Experience includes JavaScript, Java, and swift.
 
 ### Skills
 
